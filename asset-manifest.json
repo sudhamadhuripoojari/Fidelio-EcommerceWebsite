@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/css/main.f11a3b34.css",
-    "main.js": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/js/main.8a112bf6.js",
-    "static/media/HeaderGirl.png": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/media/HeaderGirl.bbe1518bfb0278ccd52b.png",
-    "static/media/inear.jpg": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/media/inear.9c7190e7ebb7262ba268.jpg",
-    "static/media/HP3a.png": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/media/HP3a.f13f6adc214855ec0d89.png",
-    "static/media/EP3.png": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/media/EP3.7b771dcf940f9934510b.png",
-    "static/media/man-onear.jpg": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/media/man-onear.e7761aa4d430fafdea3f.jpg",
-    "static/media/paymentIcon.png": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/media/paymentIcon.bc5a0e75d9b442c8add4.png",
-    "static/media/logo.png": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/media/logo.0b27d8a28ac809765fed.png",
-    "index.html": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/index.html",
-    "main.f11a3b34.css.map": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/css/main.f11a3b34.css.map",
-    "main.8a112bf6.js.map": "/sudhamadhuripoojari/Fidelio-EcommerceWebsite/static/js/main.8a112bf6.js.map"
+    "main.css": "/Fidelio-EcommerceWebsite/static/css/main.f11a3b34.css",
+    "main.js": "/Fidelio-EcommerceWebsite/static/js/main.570ffbcc.js",
+    "static/media/HeaderGirl.png": "/Fidelio-EcommerceWebsite/static/media/HeaderGirl.bbe1518bfb0278ccd52b.png",
+    "static/media/inear.jpg": "/Fidelio-EcommerceWebsite/static/media/inear.9c7190e7ebb7262ba268.jpg",
+    "static/media/HP3a.png": "/Fidelio-EcommerceWebsite/static/media/HP3a.f13f6adc214855ec0d89.png",
+    "static/media/EP3.png": "/Fidelio-EcommerceWebsite/static/media/EP3.7b771dcf940f9934510b.png",
+    "static/media/man-onear.jpg": "/Fidelio-EcommerceWebsite/static/media/man-onear.e7761aa4d430fafdea3f.jpg",
+    "static/media/paymentIcon.png": "/Fidelio-EcommerceWebsite/static/media/paymentIcon.bc5a0e75d9b442c8add4.png",
+    "static/media/logo.png": "/Fidelio-EcommerceWebsite/static/media/logo.0b27d8a28ac809765fed.png",
+    "index.html": "/Fidelio-EcommerceWebsite/index.html",
+    "main.f11a3b34.css.map": "/Fidelio-EcommerceWebsite/static/css/main.f11a3b34.css.map",
+    "main.570ffbcc.js.map": "/Fidelio-EcommerceWebsite/static/js/main.570ffbcc.js.map"
   },
   "entrypoints": [
     "static/css/main.f11a3b34.css",
-    "static/js/main.8a112bf6.js"
+    "static/js/main.570ffbcc.js"
   ]
 }
